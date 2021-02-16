@@ -49,7 +49,7 @@ conda deactivate
 
 1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), [Website](https://web.stanford.edu/~hastie/ElemStatLearn/)
 2. [An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf), [Website](http://faculty.marshall.usc.edu/gareth-james/ISL/), [Course](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/), [Course @ Data School](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), [PDF](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf), [Git](https://github.com/ageron/handson-ml2)
+3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), [Git](https://github.com/ageron/handson-ml2)
 4. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Courses
